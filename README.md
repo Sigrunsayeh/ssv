@@ -1,2 +1,2 @@
 # ssv
-verkefni
+verkefni veit ekkert
