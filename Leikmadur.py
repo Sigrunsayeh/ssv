@@ -19,3 +19,4 @@ class Leikmadur():
         print("Þú ert miðstór")
         elif self.height == stór
         print("Þú ert stór")
+        print("Þetta er breytt dæmi")
